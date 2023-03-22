@@ -1,0 +1,101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LandingPage Tests Matches DOM Snapshot 1`] = `
+<div
+  className="ant-spin-nested-loading css-dev-only-do-not-override-mxhywb"
+>
+  <div
+    className="ant-spin-container"
+  >
+    <section
+      className="ant-layout css-dev-only-do-not-override-mxhywb"
+    >
+      <header
+        className="ant-layout-header css-1prvxlx css-dev-only-do-not-override-mxhywb"
+      >
+        <div
+          className="ant-row css-4b375e css-dev-only-do-not-override-mxhywb"
+          style={Object {}}
+        >
+          <div
+            className="ant-col ant-col-xs-2 ant-col-md-4 css-dev-only-do-not-override-mxhywb"
+            style={Object {}}
+          />
+          <div
+            align="middle"
+            className="ant-col css-13owj95 ant-col-xs-20 ant-col-md-16 css-dev-only-do-not-override-mxhywb"
+            style={Object {}}
+          >
+            <img
+              className="css-1uy8vv6"
+              onClick={[Function]}
+              src="logo.svg"
+            />
+          </div>
+          <div
+            className="ant-col ant-col-xs-2 ant-col-md-4 css-dev-only-do-not-override-mxhywb"
+            style={Object {}}
+          />
+        </div>
+      </header>
+      <main
+        className="ant-layout-content css-1ruui4s css-dev-only-do-not-override-mxhywb"
+      >
+        <div
+          className="css-1m3862m"
+        />
+      </main>
+    </section>
+  </div>
+</div>
+`;
+
+exports[`renders correctly 1`] = `
+<div
+  className="ant-spin-nested-loading css-dev-only-do-not-override-mxhywb"
+>
+  <div
+    className="ant-spin-container"
+  >
+    <section
+      className="ant-layout css-dev-only-do-not-override-mxhywb"
+    >
+      <header
+        className="ant-layout-header css-1prvxlx css-dev-only-do-not-override-mxhywb"
+      >
+        <div
+          className="ant-row css-4b375e css-dev-only-do-not-override-mxhywb"
+          style={Object {}}
+        >
+          <div
+            className="ant-col ant-col-xs-2 ant-col-md-4 css-dev-only-do-not-override-mxhywb"
+            style={Object {}}
+          />
+          <div
+            align="middle"
+            className="ant-col css-13owj95 ant-col-xs-20 ant-col-md-16 css-dev-only-do-not-override-mxhywb"
+            style={Object {}}
+          >
+            <img
+              className="css-1uy8vv6"
+              onClick={[Function]}
+              src="logo.svg"
+            />
+          </div>
+          <div
+            className="ant-col ant-col-xs-2 ant-col-md-4 css-dev-only-do-not-override-mxhywb"
+            style={Object {}}
+          />
+        </div>
+      </header>
+      <main
+        className="ant-layout-content css-1ruui4s css-dev-only-do-not-override-mxhywb"
+      >
+        <div
+          className="css-1m3862m"
+        />
+      </main>
+    </section>
+  </div>
+</div>
+`;
